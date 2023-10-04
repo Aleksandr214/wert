@@ -1,0 +1,15 @@
+C:\Users\aleks\lessons\examples006_Base\bin\Debug\net6.0\examples006_Base.exe
+C:\Users\aleks\lessons\examples006_Base\bin\Debug\net6.0\examples006_Base.deps.json
+C:\Users\aleks\lessons\examples006_Base\bin\Debug\net6.0\examples006_Base.runtimeconfig.json
+C:\Users\aleks\lessons\examples006_Base\bin\Debug\net6.0\examples006_Base.dll
+C:\Users\aleks\lessons\examples006_Base\bin\Debug\net6.0\ref\examples006_Base.dll
+C:\Users\aleks\lessons\examples006_Base\bin\Debug\net6.0\examples006_Base.pdb
+C:\Users\aleks\lessons\examples006_Base\obj\Debug\net6.0\examples006_Base.csproj.AssemblyReference.cache
+C:\Users\aleks\lessons\examples006_Base\obj\Debug\net6.0\examples006_Base.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aleks\lessons\examples006_Base\obj\Debug\net6.0\examples006_Base.AssemblyInfoInputs.cache
+C:\Users\aleks\lessons\examples006_Base\obj\Debug\net6.0\examples006_Base.AssemblyInfo.cs
+C:\Users\aleks\lessons\examples006_Base\obj\Debug\net6.0\examples006_Base.csproj.CoreCompileInputs.cache
+C:\Users\aleks\lessons\examples006_Base\obj\Debug\net6.0\examples006_Base.dll
+C:\Users\aleks\lessons\examples006_Base\obj\Debug\net6.0\ref\examples006_Base.dll
+C:\Users\aleks\lessons\examples006_Base\obj\Debug\net6.0\examples006_Base.pdb
+C:\Users\aleks\lessons\examples006_Base\obj\Debug\net6.0\examples006_Base.genruntimeconfig.cache
