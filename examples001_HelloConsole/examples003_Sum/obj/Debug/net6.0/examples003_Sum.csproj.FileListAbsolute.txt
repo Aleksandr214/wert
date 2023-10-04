@@ -1,0 +1,15 @@
+C:\Users\aleks\lessons\examples001_HelloConsole\examples003_Sum\bin\Debug\net6.0\examples003_Sum.exe
+C:\Users\aleks\lessons\examples001_HelloConsole\examples003_Sum\bin\Debug\net6.0\examples003_Sum.deps.json
+C:\Users\aleks\lessons\examples001_HelloConsole\examples003_Sum\bin\Debug\net6.0\examples003_Sum.runtimeconfig.json
+C:\Users\aleks\lessons\examples001_HelloConsole\examples003_Sum\bin\Debug\net6.0\examples003_Sum.dll
+C:\Users\aleks\lessons\examples001_HelloConsole\examples003_Sum\bin\Debug\net6.0\ref\examples003_Sum.dll
+C:\Users\aleks\lessons\examples001_HelloConsole\examples003_Sum\bin\Debug\net6.0\examples003_Sum.pdb
+C:\Users\aleks\lessons\examples001_HelloConsole\examples003_Sum\obj\Debug\net6.0\examples003_Sum.csproj.AssemblyReference.cache
+C:\Users\aleks\lessons\examples001_HelloConsole\examples003_Sum\obj\Debug\net6.0\examples003_Sum.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aleks\lessons\examples001_HelloConsole\examples003_Sum\obj\Debug\net6.0\examples003_Sum.AssemblyInfoInputs.cache
+C:\Users\aleks\lessons\examples001_HelloConsole\examples003_Sum\obj\Debug\net6.0\examples003_Sum.AssemblyInfo.cs
+C:\Users\aleks\lessons\examples001_HelloConsole\examples003_Sum\obj\Debug\net6.0\examples003_Sum.csproj.CoreCompileInputs.cache
+C:\Users\aleks\lessons\examples001_HelloConsole\examples003_Sum\obj\Debug\net6.0\examples003_Sum.dll
+C:\Users\aleks\lessons\examples001_HelloConsole\examples003_Sum\obj\Debug\net6.0\ref\examples003_Sum.dll
+C:\Users\aleks\lessons\examples001_HelloConsole\examples003_Sum\obj\Debug\net6.0\examples003_Sum.pdb
+C:\Users\aleks\lessons\examples001_HelloConsole\examples003_Sum\obj\Debug\net6.0\examples003_Sum.genruntimeconfig.cache
