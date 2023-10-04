@@ -1,0 +1,5 @@
+C:\Users\aleks\lessons\examples005_conditionifelse\obj\Debug\net6.0\examples005_conditionifelse.csproj.AssemblyReference.cache
+C:\Users\aleks\lessons\examples005_conditionifelse\obj\Debug\net6.0\examples005_conditionifelse.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aleks\lessons\examples005_conditionifelse\obj\Debug\net6.0\examples005_conditionifelse.AssemblyInfoInputs.cache
+C:\Users\aleks\lessons\examples005_conditionifelse\obj\Debug\net6.0\examples005_conditionifelse.AssemblyInfo.cs
+C:\Users\aleks\lessons\examples005_conditionifelse\obj\Debug\net6.0\examples005_conditionifelse.csproj.CoreCompileInputs.cache
