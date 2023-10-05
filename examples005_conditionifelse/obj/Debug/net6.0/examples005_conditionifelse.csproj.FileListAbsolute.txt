@@ -3,3 +3,13 @@ C:\Users\aleks\lessons\examples005_conditionifelse\obj\Debug\net6.0\examples005_
 C:\Users\aleks\lessons\examples005_conditionifelse\obj\Debug\net6.0\examples005_conditionifelse.AssemblyInfoInputs.cache
 C:\Users\aleks\lessons\examples005_conditionifelse\obj\Debug\net6.0\examples005_conditionifelse.AssemblyInfo.cs
 C:\Users\aleks\lessons\examples005_conditionifelse\obj\Debug\net6.0\examples005_conditionifelse.csproj.CoreCompileInputs.cache
+C:\Users\aleks\lessons\examples005_conditionifelse\bin\Debug\net6.0\examples005_conditionifelse.exe
+C:\Users\aleks\lessons\examples005_conditionifelse\bin\Debug\net6.0\examples005_conditionifelse.deps.json
+C:\Users\aleks\lessons\examples005_conditionifelse\bin\Debug\net6.0\examples005_conditionifelse.runtimeconfig.json
+C:\Users\aleks\lessons\examples005_conditionifelse\bin\Debug\net6.0\examples005_conditionifelse.dll
+C:\Users\aleks\lessons\examples005_conditionifelse\bin\Debug\net6.0\ref\examples005_conditionifelse.dll
+C:\Users\aleks\lessons\examples005_conditionifelse\bin\Debug\net6.0\examples005_conditionifelse.pdb
+C:\Users\aleks\lessons\examples005_conditionifelse\obj\Debug\net6.0\examples005_conditionifelse.dll
+C:\Users\aleks\lessons\examples005_conditionifelse\obj\Debug\net6.0\ref\examples005_conditionifelse.dll
+C:\Users\aleks\lessons\examples005_conditionifelse\obj\Debug\net6.0\examples005_conditionifelse.pdb
+C:\Users\aleks\lessons\examples005_conditionifelse\obj\Debug\net6.0\examples005_conditionifelse.genruntimeconfig.cache
