@@ -1,24 +1,9 @@
-﻿Console.WriteLine("Введите два числа : ");
+﻿   Console.WriteLine("Введите первое число:");
 
-int a = Convert.ToInt32(Console.ReadLine());
+           int a = Convert.ToInt32(Console.ReadLine());
 
-int b = Convert.ToInt32(Console.ReadLine());
+           Console.WriteLine("Введите второе число:");
 
-if (a > b)
+           int b = Convert.ToInt32(Console.ReadLine());
 
-{
-
-    Console.WriteLine("{0} наибольшее число", a);
-
-}
-
-else
-
-{
-
-    Console.WriteLine("{0} наибольшее число ", b);
-
-}
-
-Console.ReadLine();
-
+           Console.WriteLine(a > b ? "Первое число больше второго" : "Второе число больше первого");
