@@ -1,13 +1,24 @@
-﻿// See https://aka.ms/new-console-template for more information
-using System.ComponentModel.DataAnnotations;
+﻿Console.WriteLine("Введите два числа : ");
 
-Console.WriteLine("Введите первое число: ");
-int numberA = Convert.ToInt32(Console.ReadLine());
+int a = Convert.ToInt32(Console.ReadLine());
 
-Console.WriteLine("Введите второе число: ");
-int numberB = Convert.ToInt32(Console.ReadLine());
+int b = Convert.ToInt32(Console.ReadLine());
 
-if(numberA < numberB )
+if (a > b)
+
 {
-    Console.WriteLine("numberB ");
+
+    Console.WriteLine("{0} наибольшее число", a);
+
 }
+
+else
+
+{
+
+    Console.WriteLine("{0} наибольшее число ", b);
+
+}
+
+Console.ReadLine();
+
