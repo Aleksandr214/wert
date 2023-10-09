@@ -1,0 +1,15 @@
+C:\Users\aleks\lessons\examples010_MethodArray\obj\Debug\net6.0\examples010_MethodArray.csproj.AssemblyReference.cache
+C:\Users\aleks\lessons\examples010_MethodArray\obj\Debug\net6.0\examples010_MethodArray.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aleks\lessons\examples010_MethodArray\obj\Debug\net6.0\examples010_MethodArray.AssemblyInfoInputs.cache
+C:\Users\aleks\lessons\examples010_MethodArray\obj\Debug\net6.0\examples010_MethodArray.AssemblyInfo.cs
+C:\Users\aleks\lessons\examples010_MethodArray\obj\Debug\net6.0\examples010_MethodArray.csproj.CoreCompileInputs.cache
+C:\Users\aleks\lessons\examples010_MethodArray\bin\Debug\net6.0\examples010_MethodArray.exe
+C:\Users\aleks\lessons\examples010_MethodArray\bin\Debug\net6.0\examples010_MethodArray.deps.json
+C:\Users\aleks\lessons\examples010_MethodArray\bin\Debug\net6.0\examples010_MethodArray.runtimeconfig.json
+C:\Users\aleks\lessons\examples010_MethodArray\bin\Debug\net6.0\examples010_MethodArray.dll
+C:\Users\aleks\lessons\examples010_MethodArray\bin\Debug\net6.0\ref\examples010_MethodArray.dll
+C:\Users\aleks\lessons\examples010_MethodArray\bin\Debug\net6.0\examples010_MethodArray.pdb
+C:\Users\aleks\lessons\examples010_MethodArray\obj\Debug\net6.0\examples010_MethodArray.dll
+C:\Users\aleks\lessons\examples010_MethodArray\obj\Debug\net6.0\ref\examples010_MethodArray.dll
+C:\Users\aleks\lessons\examples010_MethodArray\obj\Debug\net6.0\examples010_MethodArray.pdb
+C:\Users\aleks\lessons\examples010_MethodArray\obj\Debug\net6.0\examples010_MethodArray.genruntimeconfig.cache
