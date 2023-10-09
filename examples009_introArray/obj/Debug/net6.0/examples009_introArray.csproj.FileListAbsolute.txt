@@ -3,3 +3,13 @@ C:\Users\aleks\lessons\examples009_introArray\obj\Debug\net6.0\examples009_intro
 C:\Users\aleks\lessons\examples009_introArray\obj\Debug\net6.0\examples009_introArray.AssemblyInfoInputs.cache
 C:\Users\aleks\lessons\examples009_introArray\obj\Debug\net6.0\examples009_introArray.AssemblyInfo.cs
 C:\Users\aleks\lessons\examples009_introArray\obj\Debug\net6.0\examples009_introArray.csproj.CoreCompileInputs.cache
+C:\Users\aleks\lessons\examples009_introArray\bin\Debug\net6.0\examples009_introArray.exe
+C:\Users\aleks\lessons\examples009_introArray\bin\Debug\net6.0\examples009_introArray.deps.json
+C:\Users\aleks\lessons\examples009_introArray\bin\Debug\net6.0\examples009_introArray.runtimeconfig.json
+C:\Users\aleks\lessons\examples009_introArray\bin\Debug\net6.0\examples009_introArray.dll
+C:\Users\aleks\lessons\examples009_introArray\bin\Debug\net6.0\ref\examples009_introArray.dll
+C:\Users\aleks\lessons\examples009_introArray\bin\Debug\net6.0\examples009_introArray.pdb
+C:\Users\aleks\lessons\examples009_introArray\obj\Debug\net6.0\examples009_introArray.dll
+C:\Users\aleks\lessons\examples009_introArray\obj\Debug\net6.0\ref\examples009_introArray.dll
+C:\Users\aleks\lessons\examples009_introArray\obj\Debug\net6.0\examples009_introArray.pdb
+C:\Users\aleks\lessons\examples009_introArray\obj\Debug\net6.0\examples009_introArray.genruntimeconfig.cache
