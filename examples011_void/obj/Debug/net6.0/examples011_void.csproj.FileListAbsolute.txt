@@ -1,0 +1,15 @@
+C:\Users\aleks\lessons\examples011_void\obj\Debug\net6.0\examples011_void.csproj.AssemblyReference.cache
+C:\Users\aleks\lessons\examples011_void\obj\Debug\net6.0\examples011_void.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aleks\lessons\examples011_void\obj\Debug\net6.0\examples011_void.AssemblyInfoInputs.cache
+C:\Users\aleks\lessons\examples011_void\obj\Debug\net6.0\examples011_void.AssemblyInfo.cs
+C:\Users\aleks\lessons\examples011_void\obj\Debug\net6.0\examples011_void.csproj.CoreCompileInputs.cache
+C:\Users\aleks\lessons\examples011_void\bin\Debug\net6.0\examples011_void.exe
+C:\Users\aleks\lessons\examples011_void\bin\Debug\net6.0\examples011_void.deps.json
+C:\Users\aleks\lessons\examples011_void\bin\Debug\net6.0\examples011_void.runtimeconfig.json
+C:\Users\aleks\lessons\examples011_void\bin\Debug\net6.0\examples011_void.dll
+C:\Users\aleks\lessons\examples011_void\bin\Debug\net6.0\ref\examples011_void.dll
+C:\Users\aleks\lessons\examples011_void\bin\Debug\net6.0\examples011_void.pdb
+C:\Users\aleks\lessons\examples011_void\obj\Debug\net6.0\examples011_void.dll
+C:\Users\aleks\lessons\examples011_void\obj\Debug\net6.0\ref\examples011_void.dll
+C:\Users\aleks\lessons\examples011_void\obj\Debug\net6.0\examples011_void.pdb
+C:\Users\aleks\lessons\examples011_void\obj\Debug\net6.0\examples011_void.genruntimeconfig.cache
