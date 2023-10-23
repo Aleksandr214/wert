@@ -12,7 +12,7 @@
 //}
 
 //int [,]matrix=new int[3,4];
-int [,] pic=new int [20,21];
+int [,] pic=new int[,];
 
 void PrintImage(int[,]image)
 {
