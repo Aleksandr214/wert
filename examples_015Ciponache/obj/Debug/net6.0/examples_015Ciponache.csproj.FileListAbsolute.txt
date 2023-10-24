@@ -1,0 +1,15 @@
+C:\Users\aleks\lessons\examples_015Ciponache\bin\Debug\net6.0\examples_015Ciponache.exe
+C:\Users\aleks\lessons\examples_015Ciponache\bin\Debug\net6.0\examples_015Ciponache.deps.json
+C:\Users\aleks\lessons\examples_015Ciponache\bin\Debug\net6.0\examples_015Ciponache.runtimeconfig.json
+C:\Users\aleks\lessons\examples_015Ciponache\bin\Debug\net6.0\examples_015Ciponache.dll
+C:\Users\aleks\lessons\examples_015Ciponache\bin\Debug\net6.0\ref\examples_015Ciponache.dll
+C:\Users\aleks\lessons\examples_015Ciponache\bin\Debug\net6.0\examples_015Ciponache.pdb
+C:\Users\aleks\lessons\examples_015Ciponache\obj\Debug\net6.0\examples_015Ciponache.csproj.AssemblyReference.cache
+C:\Users\aleks\lessons\examples_015Ciponache\obj\Debug\net6.0\examples_015Ciponache.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aleks\lessons\examples_015Ciponache\obj\Debug\net6.0\examples_015Ciponache.AssemblyInfoInputs.cache
+C:\Users\aleks\lessons\examples_015Ciponache\obj\Debug\net6.0\examples_015Ciponache.AssemblyInfo.cs
+C:\Users\aleks\lessons\examples_015Ciponache\obj\Debug\net6.0\examples_015Ciponache.csproj.CoreCompileInputs.cache
+C:\Users\aleks\lessons\examples_015Ciponache\obj\Debug\net6.0\examples_015Ciponache.dll
+C:\Users\aleks\lessons\examples_015Ciponache\obj\Debug\net6.0\ref\examples_015Ciponache.dll
+C:\Users\aleks\lessons\examples_015Ciponache\obj\Debug\net6.0\examples_015Ciponache.pdb
+C:\Users\aleks\lessons\examples_015Ciponache\obj\Debug\net6.0\examples_015Ciponache.genruntimeconfig.cache
