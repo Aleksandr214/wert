@@ -1,0 +1,15 @@
+C:\Users\aleks\lessons\examples_014Factorial\bin\Debug\net6.0\examples_014Factorial.exe
+C:\Users\aleks\lessons\examples_014Factorial\bin\Debug\net6.0\examples_014Factorial.deps.json
+C:\Users\aleks\lessons\examples_014Factorial\bin\Debug\net6.0\examples_014Factorial.runtimeconfig.json
+C:\Users\aleks\lessons\examples_014Factorial\bin\Debug\net6.0\examples_014Factorial.dll
+C:\Users\aleks\lessons\examples_014Factorial\bin\Debug\net6.0\ref\examples_014Factorial.dll
+C:\Users\aleks\lessons\examples_014Factorial\bin\Debug\net6.0\examples_014Factorial.pdb
+C:\Users\aleks\lessons\examples_014Factorial\obj\Debug\net6.0\examples_014Factorial.csproj.AssemblyReference.cache
+C:\Users\aleks\lessons\examples_014Factorial\obj\Debug\net6.0\examples_014Factorial.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aleks\lessons\examples_014Factorial\obj\Debug\net6.0\examples_014Factorial.AssemblyInfoInputs.cache
+C:\Users\aleks\lessons\examples_014Factorial\obj\Debug\net6.0\examples_014Factorial.AssemblyInfo.cs
+C:\Users\aleks\lessons\examples_014Factorial\obj\Debug\net6.0\examples_014Factorial.csproj.CoreCompileInputs.cache
+C:\Users\aleks\lessons\examples_014Factorial\obj\Debug\net6.0\examples_014Factorial.dll
+C:\Users\aleks\lessons\examples_014Factorial\obj\Debug\net6.0\ref\examples_014Factorial.dll
+C:\Users\aleks\lessons\examples_014Factorial\obj\Debug\net6.0\examples_014Factorial.pdb
+C:\Users\aleks\lessons\examples_014Factorial\obj\Debug\net6.0\examples_014Factorial.genruntimeconfig.cache
